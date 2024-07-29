@@ -1,5 +1,25 @@
-*.webp
+# Imagens comuns
 *.jpg
 *.jpeg
 *.png
-*.csv
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.ico
+*.webp
+
+# Imagens de Photoshop
+*.psd
+*.psb
+
+# Imagens de GIMP
+*.xcf
+
+# Formatos de imagem RAW
+*.raw
+*.cr2
+*.nef
+*.orf
+*.sr2
